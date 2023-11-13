@@ -24,7 +24,7 @@ int [] rectangle = new int [4];
         rectangle [2] = 3;
         rectangle [3] = 6;
         for (int side : rectangle){
-            System.out.println(side);л
+            System.out.println(side);
         }
         String result = Arrays.toString(rectangle);
         System.out.println(result);
